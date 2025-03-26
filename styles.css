@@ -682,6 +682,7 @@
 #About {
     text-align: center;
     padding: 50px 20px;
+    background: linear-gradient(to right, #f0f5f1, #e2e6ea);
 }
 
 #About h2 {
@@ -725,6 +726,7 @@
 #Certificates {
     text-align: center;
     padding: 50px 20px;
+    background: linear-gradient(to right, #f0f5f1, #e2e6ea);
 }
 
 #Certificates h2 {
