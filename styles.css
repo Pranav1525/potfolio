@@ -313,7 +313,7 @@
     #Skills {
         padding: 60px 0;
         text-align: center;
-        background: linear-gradient(to right, #f0f5f1, #e2e6ea);
+        /* background: linear-gradient(to right, #f0f5f1, #e2e6ea); */
     }
 
     #Skills h2 {
