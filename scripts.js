@@ -23,3 +23,6 @@ let navlinks=document.querySelector('.nav-links');
 menuBars.addEventListener('click',()=>{
     navlinks.classList.toggle('nav-links-block');
 });
+
+
+
